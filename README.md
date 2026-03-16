@@ -1,4 +1,6 @@
 # 💫 About Me:
+
+
 Hi, I'm Lucas, Software Engineer that codes fun stuff and especially automation to save me some time.
 
 I'm in IT for 5 years now, experienced with remote position at Allianz and other startups.
@@ -7,6 +9,7 @@ I'm in IT for 5 years now, experienced with remote position at Allianz and other
 
 Passion for video game & huge Witcher nerd ☝️🤓
 
+Currently looking for opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-gangnant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucas.gangnant@epitech.eu) 
