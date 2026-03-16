@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi, I'm Lucas, a Software Engineer that codes fun stuff and especially automation to save me some time.
+Hi, I'm Lucas, Software Engineer that codes fun stuff and especially automation to save me some time.
 
-Experienced with remote position at Allianz and startups.
+I'm in IT for 5 years now, experienced with remote position at Allianz and other startups.
 
 4 happy cats at home !
 
