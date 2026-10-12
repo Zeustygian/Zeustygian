@@ -3,11 +3,9 @@
 
 Hi, I'm Lucas, Software Engineer that codes fun stuff and especially automation to save me some time.
 
-I'm in IT for 5 years now, experienced with remote position at Allianz and other startups.
+I'm in IT for 5 years now, experienced with remote position at big companies and startups.
 
-4 happy cats at home !
-
-Passion for video game & huge Witcher nerd ☝️🤓
+Huge Witcher nerd ☝️🤓
 
 Currently looking for opportunities.
 
