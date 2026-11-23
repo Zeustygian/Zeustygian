@@ -6,7 +6,7 @@ Hi, I'm Lucas, a software engineer who loves building fun projects and automatin
 
 🐺 Huge Witcher nerd ☝️🤓
 
-🔍 Currently looking for **[backend / automation / game dev]** opportunities — **[remote / Mauritius / Europe]**.
+🔍 Currently looking for **[Data / Automation / Backend]** opportunities — **[remote / Europe / Worldwide]**.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-gangnant) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucas.gangnant@epitech.eu)
