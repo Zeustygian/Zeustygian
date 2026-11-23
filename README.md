@@ -1,13 +1,13 @@
 # 💫 About Me:
 
 
-Hi, I'm Lucas, Software Engineer that codes fun stuff and especially automation to save me some time.
+Hi, I'm Lucas, Software Engineer that codes fun stuff and especially like to automate to save time.
 
-I'm in IT for 5 years now, experienced with remote position at big companies and startups.
+Epitech diplomated student, 2 years experienced junior.
 
 Huge Witcher nerd ☝️🤓
 
-Currently looking for opportunities.
+Looking for opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-gangnant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucas.gangnant@epitech.eu) 
